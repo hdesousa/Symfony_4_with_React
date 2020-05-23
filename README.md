@@ -4,6 +4,7 @@ Synfony 4 LTS with React Startup Project
 # Requirements
 
 Symfony 4.4: https://symfony.com/doc/4.4/setup.html
+
 Yarn: https://yarnpkg.com/getting-started/install
 
 # Instructions
